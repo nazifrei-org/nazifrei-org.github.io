@@ -25,10 +25,10 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: nazifrei/nazifrei.github.io
+          external_repository: nazifrei-org/nazifrei-org.github.io
           publish_dir: ./public
           #   keep_files: true
-          user_name: nazifrei 
-          user_email: kontakt@nazifrei.ch 
+          user_name: nazifrei-org
+          user_email: kontakt@nazifrei.org 
           publish_branch: master
-          cname: nazifrei.ch 
+          cname: nazifrei.org

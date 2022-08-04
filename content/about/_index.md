@@ -1,7 +1,7 @@
 ---
-title: "Willkommen auf nazifrei.ch"
+title: "Willkommen auf nazifrei.org"
 image: "images/Antifalogo.png"
-description: "Willkommen bei nazifrei.ch"
+description: "Willkommen bei nazifrei.org"
 draft: false
 ---
 
@@ -21,4 +21,6 @@ Mit dieser Seite starten wir eine antifaschistische Frühlingskampagne: Ab Ende 
 
 PS: Falls _Junge-Tat_-Mitglieder einen Schlussstrich ziehen oder etwas zu sich oder den (Ex-)Kameraden anmerken wollen (was beides schon öfters geschehen ist), können sie sich melden.
 
-Kontakt nur via Mail: `kontakt <ät> nazifrei <punkt> ch`.
+Kontakt nur via Mail: `kontakt <ät> nazifrei <punkt> org`.
+
+

@@ -1,7 +1,7 @@
 ---
-title: "nazifrei.ch by antifa"
+title: "nazifrei.org by antifa"
 image: "images/Antifalogo.png"
-email: "kontakt@nazifrei.ch"
+email: "kontakt@nazifrei.org"
 ---
 
 nazifrei - powered by your local antifa

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://nazifrei.ch/"
-title = "nazifrei.ch"
+baseURL = "https://nazifrei.org/"
+title = "nazifrei.org"
 theme = "persian-hugo"
 languageName = "DE"
 languageCode = "de-ch"
@@ -41,7 +41,7 @@ link = "plugins/search/search.js"
 
 ################################ menu ##################################
 [[menu.main]]
-name = "Über nazifrei.ch"
+name = "Über nazifrei.org"
 url = "about/"
 weight = 1
 
@@ -50,14 +50,14 @@ weight = 1
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "nazifrei.ch"
-author = "nazifrei.ch"
+description = "nazifrei.org"
+author = "nazifrei.org"
 # search
 search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "[nazifrei.ch](https://nazifrei.ch/) - powered by your local antifa | Nazi sein heisst Probleme kriegen"
+copyright = "[nazifrei.org](https://nazifrei.org/) - powered by your local antifa | Nazi sein heisst Probleme kriegen"
 
 # Preloader
 [params.preloader]
