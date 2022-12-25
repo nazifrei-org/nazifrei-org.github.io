@@ -21,6 +21,8 @@ _Saskia Clauwaert_ ist eine der ganz wenigen Frauen im Umfeld der _Jungen Tat_. 
 
 Als Tochter aus grünem, bildungsbürgerlichen Haus hat _Clauwaert_ das Gymnasium Muttenz gemacht. Dort hat sie viel gedichtet und gesunden. Apropos Lärm: sie ist Fan der Nazi-Black-Metal-Band _Burzum_. _Clauwaert_ ist Leiterin bei der _Jubla Birsfelden_, wo sie die Kindergruppe _Kometli_ führt. Ihr lang gehegter Traum ist eine Familiengründung (offenbar gerne Zwillinge) auf eigenem Bauernhof im Grünen. Vorbild: völkische Siedlungsprojekte in Ostdeutschland.
 
+Update: _Saskia_ studiert mittlerweile an der ZHAW in Winterthur und wohnt mit _Manuel Corchia_ in Hagenbuch (nähe Winterthur). Fährt teilweise mit dem Fahrrad zum Bahnhof Elgg.
+
 Mehr von _Saskia Clauwaert_:
 
 ![](/images/saskia/saskia1.png)

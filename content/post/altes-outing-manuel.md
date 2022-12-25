@@ -11,7 +11,7 @@ draft: false
 
 ```
 Name: Manuel Corchia
-Adresse: Fliederweg 4, 8400 Winterthur ZH
+Adresse: Oberschneit 30, 8523 Hagenbuch ZH ~~Fliederweg 4, 8400 Winterthur ZH~~
 Geburtsdatum: 2000
 Arbeitsort: Selbstständig - https://corchia-visualisierungen.ch/
 Social Media: aktiverwinterthurer (Instagram) / AktivWinti (Twitter)
